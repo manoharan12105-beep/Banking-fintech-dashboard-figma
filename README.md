@@ -33,10 +33,3 @@ A modern and clean Banking / Fintech Dashboard interface that includes:
 - Figma
 
 ---
-
-## 📷 Preview
-
-(Add your exported screenshot here and name it `preview.png`)
-
-```md
-![Dashboard Preview](preview.png)
