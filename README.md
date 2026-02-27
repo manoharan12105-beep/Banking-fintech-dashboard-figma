@@ -30,6 +30,5 @@ A modern and clean Banking / Fintech Dashboard interface that includes:
 
 ## 🛠 Tools Used
 
-- Figma
+- Figma ( https://www.figma.com/design/f7FAhYWlgv3pb1pqTFUKDb/Login-Page--Community-?node-id=0-1&p=f&t=4MWIaHZMPzsuDJpi-0 )
 
----
